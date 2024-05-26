@@ -16,7 +16,7 @@
     </td>
     <td style="padding: 0;">
       <a href="#debabin-title">
-        <img src="https://github-readme-stats.vercel.app/api?username=im-so-tired&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="debabin" align="right" />
+        <img src="https://github-readme-stats.vercel.app/api?username=deus0machine&show_icons=true&theme=react&count_private=true&include_all_commits=true" alt="debabin" align="right" />
       </a>
     </td>
   </tr>
@@ -30,7 +30,7 @@
   <tr>
     <td colspan="2" style="padding: 0;" align="center">
       <a href="https://git.io/streak-stats">
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=DenverCoder1&theme=react&sideNums=FFFFFF" />
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=deus0machine&theme=react&sideNums=FFFFFF" />
       </a>
     </td>
   </tr>
